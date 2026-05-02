@@ -1,0 +1,22 @@
+# SKVA Substrate Exclusions
+.sarah_ssh/
+node_modules/
+.venv/
+env/
+venv/
+dist/
+build/
+*.pyc
+__pycache__/
+metabolic_audit.json
+expand_substrate.py
+restructure_substrate.py
+Core_Snapshot_*/
+*.img
+*.png
+.git/
+.env
+*.log
+.vscode/
+.idea/
+GenesisOS_Core/
